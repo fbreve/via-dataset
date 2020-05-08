@@ -1,4 +1,4 @@
-Dataset from the article: "Visually Impaired Aid using Convolutional Neural Networks, Transfer Learning, and Particle Competition and Cooperation"
+# Dataset from the article: "Visually Impaired Aid using Convolutional Neural Networks, Transfer Learning, and Particle Competition and Cooperation"
 
 If you use this dataset, please cite the original publication:
 
