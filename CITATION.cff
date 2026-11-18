@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use the VIA dataset in research, please cite the associated IJCNN 2020 publication."
+type: dataset
+title: "VIA Dataset: Clear and Non-Clear Path Images for Visually Impaired Aid"
+authors:
+  - family-names: Breve
+    given-names: "Fabricio Aparecido"
+date-released: "2020-02-03"
+url: "https://github.com/fbreve/via-dataset"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/fbreve/via-py"
+keywords:
+  - "visually impaired aid"
+  - "path obstruction"
+  - "image classification"
+  - "convolutional neural networks"
+  - "transfer learning"
+preferred-citation:
+  type: conference-paper
+  title: "Visually Impaired Aid using Convolutional Neural Networks, Transfer Learning, and Particle Competition and Cooperation"
+  authors:
+    - family-names: Breve
+      given-names: "Fabricio Aparecido"
+    - family-names: Fischer
+      given-names: "Carlos Norberto"
+  conference:
+    name: "2020 International Joint Conference on Neural Networks (IJCNN)"
+  year: 2020
+  doi: "10.1109/IJCNN48605.2020.9207606"
