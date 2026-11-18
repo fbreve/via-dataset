@@ -1,0 +1,34 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+License notice for the VIA image dataset
+
+The 342 original photographs in the images/ directory, together with
+the dataset labels and descriptive dataset metadata in this repository,
+are made available under the Creative Commons Attribution 4.0
+International Public License (CC BY 4.0).
+
+Photographer and copyright holder: Fabricio Aparecido Breve
+Dataset source: https://github.com/fbreve/via-dataset
+
+Full license terms (legally authoritative):
+https://creativecommons.org/licenses/by/4.0/legalcode
+License overview:
+https://creativecommons.org/licenses/by/4.0/
+
+Under CC BY 4.0, you may share and adapt the licensed material for any
+purpose, including commercial use, provided you give appropriate credit,
+provide a link to the license, and indicate whether changes were made.
+There are no additional restrictions imposed by this repository.
+
+Suggested attribution (adapt as appropriate to your use):
+"VIA dataset photographs by Fabricio Aparecido Breve,
+https://github.com/fbreve/via-dataset, licensed under CC BY 4.0,
+https://creativecommons.org/licenses/by/4.0/."
+
+When using the dataset for academic research, please also cite the
+associated 2020 IJCNN paper listed in README.md and CITATION.cff.
+Academic citation is a request, not an additional condition of CC BY 4.0.
+
+This license does not grant rights to external research articles, to
+third-party software (including the separate via-py repository), or
+to any trademarks or other material not licensed by its rightsholder.
